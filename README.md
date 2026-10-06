@@ -1,4 +1,4 @@
-#VCSEL Stress-Recovery Cycle Library
+# VCSEL Stress-Recovery Cycle Library
 
 ## Series Context
 
