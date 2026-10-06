@@ -1,0 +1,5 @@
+PyQt5>=5.15
+numpy>=1.19
+matplotlib>=3.3
+pyvisa>=1.11
+pyvisa-py>=0.5
